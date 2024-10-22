@@ -5,7 +5,7 @@ def get_db_path():
     if os.path.exists('/app/choco.db'):
         return '/app/choco.db'  
     else:
-        return '/home/lee/fictionhouse/chocolate/choco.db'  
+        return '/yourPath/yourDatabase.db'  
 
 def add_flavor(name, seasonal):
     with Database(get_db_path()) as con:
