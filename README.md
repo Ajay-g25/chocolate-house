@@ -1,7 +1,7 @@
 
-# Chocolate House App
+# Chocolate House 
 
-Welcome to the Chocolate House App! This application allows you to manage flavors, ingredients, and customer suggestions in a delightful chocolate shop environment.
+Welcome to the Chocolate House App! This application allows you to manage flavors, ingredients, and customer suggestions in a easy and efficient manner.
 
 
 ## Features
