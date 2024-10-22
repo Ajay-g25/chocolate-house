@@ -28,8 +28,8 @@ To run this application, you need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chocolate-house-app.git
-   cd chocolate-house-app
+   git clone https://github.com/Wuxxian/chocolate-house.git
+   cd chocolate-house
    ```
 
 2. Install the required packages:
