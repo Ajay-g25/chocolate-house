@@ -4,27 +4,27 @@
 Welcome to the Chocolate House App! This application allows you to manage flavors, ingredients, and customer suggestions in a easy and efficient manner.
 
 
-# Features
+## Features
 - Add, view, and delete flavors
 - Add, view, and delete ingredients
 - Submit and view customer suggestions
 - User-friendly interface via Streamlit
 
-# Technologies Used
+## Technologies Used
 - Python
 - SQLite
 - Streamlit
 
-# Requirements
+## Requirements
 To run this application, you need:
 - Python 3.x
 - Pip (Python package installer)
 
-# Python Libraries
+### Python Libraries
 - streamlit
 - sqlite3 (included with Python)
 
-# Installation
+## Installation
 1. Clone the repository:
 
    ```bash
@@ -40,8 +40,8 @@ To run this application, you need:
    pip install -r requirements.txt
    ```
 
-# Usage
-# Running the Application Locally
+## Usage
+### Running the Application Locally
 1. To run the command-line application, execute:
 
    ```bash
@@ -54,7 +54,7 @@ To run this application, you need:
    streamlit run app.py
    ```
 
-# Running the Application with Docker
+### Running the Application with Docker
 1. Build the Docker image:
 
    Navigate to the directory containing your Dockerfile and run:
