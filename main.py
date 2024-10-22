@@ -12,7 +12,7 @@ from functions import (
 )
 
 def main():
-    db_path = '/home/lee/fictionhouse/chocolate/choco.db' 
+    db_path = '/yourPath/yourDatabase.db' 
     with Database(db_path) as con:
         create(con) 
 
